@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # javarush-university
 
 ### HelloQuest (II)
@@ -73,3 +74,6 @@ webapp - JSP-страницы
 4. Servlet API 4.0 - основа веб-разработки на Java
 5. JSP + JSTL - для создания веб-страниц
 6. JUnit + Mockito - для тестирования 
+=======
+# javarush-university
+>>>>>>> 950f4f8afed3eaf7f391536caa9e027f2a6f9ceb
